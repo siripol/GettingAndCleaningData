@@ -6,7 +6,6 @@ This repository contains scripts and documentation for analyzing the UCI Human A
 
 ## Project Structure
 
-- **`data/`**: Contains raw and processed data files.
 - **`scripts/`**: Contains R scripts for data preparation and analysis.
 - **`CodeBook.md`**: Detailed description of the dataset, variables, and transformations.
 - **`README.md`**: This file.
